@@ -1,8 +1,8 @@
 # Frontend Mentor - Intro section with dropdown navigation solution
 
-# Welcome! 👋
+![](https://github.com/tahsinkarim/intro-section-with-dropdown-navigation/blob/main/images/desktop-design.jpg)
 
-(./images/desktop-design.jpg)
+# Welcome! 👋
 
 Hello! Thanks for checking out this repository.
 
