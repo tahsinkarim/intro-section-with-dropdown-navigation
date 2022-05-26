@@ -23,7 +23,6 @@ Users should be able to:
 - HTML5
 - CSS custom properties
 - Flexbox
-- CSS Grid
 
 ## Author
 
