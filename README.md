@@ -1,10 +1,12 @@
 # Frontend Mentor - Intro section with dropdown navigation solution
 
-#Welcome! 👋
+# Welcome! 👋
+
+(./images/desktop-design.jpg)
 
 Hello! Thanks for checking out this repository.
 
-#What is it about
+### What is it about
 
 It's a solution of a junior challenge called "Intro Section With Dropdown Navigation" made by [Frontend Mentor](https://www.frontendmentor.io/challenges/intro-section-with-dropdown-navigation-ryaPetHE5)
 
@@ -28,7 +30,7 @@ Users should be able to:
 - Website - [Tahsin Karim](https://tahsinkarim.github.io/intro-section-with-dropdown-navigation/)
 - Frontend Mentor - [@tahsinkarim](https://www.frontendmentor.io/profile/tahsinkarim)
 
-#Any suggestion
+# Any suggestion
 
 I would be glad and grateful if you could leave any suggestion for this project or about anything else.
 Have a good day :)
